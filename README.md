@@ -10,7 +10,7 @@
   - 🔍 **Bug Tracking:** JIRA, Taiga
   - ⚙️ **Automation:** Java
   - 📈 **Performance Testing:** JMeter, Postman
-  - 🔧 **CI/CD:** Jenkins, GitHub Actions
+  - 🔧 **CI/CD:** GitHub Actions
   - 🛡 **Security Testing:** Burp Suite
     
  📄 **What I Do:**
