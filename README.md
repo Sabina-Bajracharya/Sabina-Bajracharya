@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Sabina-Bajracharya/Sabina-Bajracharya/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sabina Bajracharya</h1>
 <h4 align="center">A passionate QA Engineer with a knack for identifying and solving complex problems. With a background in both manual and automated testing, I thrive on ensuring software quality and enhancing user experiences.</h4>
 
