@@ -13,8 +13,7 @@
   - 🛠 **Testing Frameworks:** Selenium, JUnit, TestNG
   - 🔍 **Bug Tracking:** JIRA, Taiga
   - ⚙️ **Automation:** Java
-  - 📈 **Performance Testing:** JMeter, Postman
-  - 🔧 **CI/CD:** GitHub Actions
+  - 📈 **Performance Testing:** JMeter, Postman, K6
   - 🛡 **Security Testing:** Burp Suite
     
  📄 **What I Do:**
