@@ -9,10 +9,11 @@
 
   👨‍💻 **Skills & Expertise:**
   - 🛠 **Testing Frameworks:** Selenium, JUnit, TestNG
-  - 🔍 **Bug Tracking:** JIRA, Taiga
+  - 🔍 **Bug Tracking:** JIRA, Taiga, 
   - ⚙️ **Automation:** Java
   - 📈 **Performance Testing:** JMeter, Postman, K6
   - 🛡 **Security Testing:** Burp Suite
+  - **Test Case Execution:** Qase, TestRail
     
  📄 **What I Do:**
   - Design and execute test plans and test cases
