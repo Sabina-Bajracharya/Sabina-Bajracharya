@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabina-bajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="sabina-bajracharya" /> </p>
 
   👨‍💻 **Skills & Expertise:**
-  - 🛠 **Testing Frameworks:** Selenium, JUnit, TestNG
+  - 🛠 **Testing Frameworks:** Playwright, JUnit, TestNG
   - 🔍 **Bug Tracking:** JIRA, Taiga, 
-  - ⚙️ **Automation:** Java
+  - ⚙️ **Automation:** Javascript
   - 📈 **Performance Testing:** JMeter, Postman, K6
   - 🛡 **Security Testing:** Burp Suite
   - **Test Case Execution:** Qase, TestRail
